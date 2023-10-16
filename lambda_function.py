@@ -8,4 +8,5 @@ def lambda_handler(event, context):
     }
     df = pd.DataFrame(data = dummyData)
     print(df)
-    print('Done x1.5')
+    print('Done x2.0')
+    print('DESPLIEGUE DE FUNCION LAMBDA EN PYTHON USANDO AWS CODEBUILD')
